@@ -15,7 +15,7 @@ UART is used for serial communication between the LPC2129 microcontroller and th
 
 The system consists of multiple sensors connected to the LPC2129 microcontroller. The MCU processes the sensor inputs and sends the monitored data to the computer through the UART interface.
 
-![Uploading Serial Terminal Project Block Diagram.png…]()
+<img width="1535" height="1024" alt="ChatGPT Image Nov 14, 2026, 06_10_01 PM" src="https://github.com/user-attachments/assets/bece9dde-88a1-4fae-a91d-0edaed2cb24b" />
 
 
 ## Serial Terminal Output
