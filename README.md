@@ -22,10 +22,10 @@ The system consists of multiple sensors connected to the LPC2129 microcontroller
 
 The following parameters are displayed on the Serial Terminal:
 
-TEMP        : 28 °C
-LIGHT       : 50 %
-VTG         : 3.3 % (MAX)
-VIBRATIONS  : NO
-FLAME       : NO
+- TEMP        : 28 °C
+- LIGHT       : 50 %
+- VTG         : 3.3 % (MAX)
+- VIBRATIONS  : NO
+- FLAME       : NO
 
 
