@@ -17,6 +17,7 @@ The system consists of multiple sensors connected to the LPC2129 microcontroller
 
 ![Uploading Serial Terminal Project Block Diagram.png…]()
 
+
 ## Serial Terminal Output
 
 The following parameters are displayed on the Serial Terminal:
